@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,wind,Target
+sunny,hot,high,weak,No
+sunny,hot,high,strong,No
+overcast,hot,high,weak,Yes
+rainy,mild,high,weak,Yes
+rainy,cool,normal,weak,Yes
+rainy,cool,normal,strong,No
+overcast,cool,normal,strong,Yes
+sunny,mild,high,weak,No
+sunny,cool,normal,weak,Yes
+rainy,mild,normal,weak,Yes
+sunny,mild,normal,strong,Yes
+overcast,mild,high,strong,Yes
+overcast,hot,normal,weak,Yes
+rainy,mild,high,strong,No
